@@ -4,5 +4,7 @@ Proyectos prácticos y análisis de seguridad realizados durante el Certificado 
 
 ## 📁 Índice de Contenidos
 
-* **[Auditoría de Seguridad - Botium Toys](./Auditoria-Botium-Toys/Security_Audit_Botium_Toys%20(1).pdf)**: Análisis de riesgos, controles de seguridad y cumplimiento de la normativa para una tienda de juguetes.
-* **[Análisis de Tráfico DNS e ICMP](./Analisis-Trafico-DNS/Cybersecurity%20incident%20report%20network%20traffic%20analysis.pdf)**: Identificación de problemas de conectividad e interpretación de registros `tcpdump` en el puerto UDP 53.
+* **[Auditoría de Seguridad - Botium Toys](./01-Auditoria-Botium-Toys/)**: Análisis de riesgos, controles de seguridad y cumplimiento de la normativa para una tienda de juguetes.
+* **[Análisis de Tráfico DNS e ICMP](./02-Analisis-Trafico-DNS/)**: Identificación de problemas de conectividad e interpretación de registros `tcpdump` en el puerto UDP 53.
+* **[Mitigación de Ataque de Inundación SYN](./03-Ataque-Inundacion-SYN/)**: Identificación de ataques DoS, explicación del saludo de tres vías TCP y análisis de colapso de servidores.
+ 
