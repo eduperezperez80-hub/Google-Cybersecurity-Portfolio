@@ -1,6 +1,6 @@
 # Google-Cybersecurity-Portfolio
 
-<img src="https://shields.io" alt="Google Cybersecurity">
+> **Google Cybersecurity Professional Certificate** 🛡️
 
 Proyectos prácticos y análisis de seguridad realizados durante el Certificado Profesional de Ciberseguridad de Google.
 
